@@ -1,0 +1,19 @@
+site_name: Learning Resources
+site_url: https://keiimai.github.io/learning_resources/
+
+theme:
+  name: material
+  language: ja
+
+  features:
+    - content.code.copy
+    - content.code.annotate
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_nums: true
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - search
