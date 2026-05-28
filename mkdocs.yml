@@ -7,4 +7,6 @@ theme:
 
 nav:
   - ホーム: index.md
-  - 統計関連書籍: statistics_book.md
+  - 統計関連書籍: statistics_books.md
+  - 疫学関連書籍: epidemiology_books.md
+  - 機械学習関連書籍: machine_learning_books.md
