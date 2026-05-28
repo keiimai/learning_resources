@@ -6,6 +6,25 @@ __pycache__/
 # C extensions
 *.so
 
+# MkDocsが自動生成する公開用フォルダ
+site/
+.cache/
+
+# Python用の除外設定
+__pycache__/
+*.py[cod]
+.venv/
+.env
+
+# R用の除外設定
+.Rhistory
+.RData
+.Ruserdata
+
+# システムの隠しファイル (Mac/Windows)
+.DS_Store
+Thumbs.db
+
 # Distribution / packaging
 .Python
 build/
