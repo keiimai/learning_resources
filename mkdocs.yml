@@ -5,15 +5,6 @@ theme:
   name: material
   language: ja
 
-  features:
-    - content.code.copy
-    - content.code.annotate
-
-markdown_extensions:
-  - pymdownx.highlight:
-      anchor_linenums: true
-      line_nums: true
-  - pymdownx.superfences
-  - pymdownx.tabbed:
-      alternate_style: true
-  - search
+nav:
+  - ホーム: index.md
+  - 統計関連書籍: statistics_book.md
