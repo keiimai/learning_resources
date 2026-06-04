@@ -21,13 +21,6 @@
 [ウェブサイトのリンクはこちら](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/)<br>
 
 
-### 書籍名B
-[ウェブサイトのリンクはこちら](URL)<br>
-ここにメモを記載します。
-### 書籍名B
-[ウェブサイトのリンクはこちら](URL)<br>
-ここにメモを記載します。
-
 ### イラストで学ぶ　機械学習 最小二乗法による識別モデル学習を中心に
 [ウェブサイトのリンクはこちら](https://www.kspub.co.jp/book/detail/1538214.html)<br>
 ここにメモを記載します。
@@ -59,14 +52,32 @@
 ### 深層学習 改訂第2版
 [ウェブサイトのリンクはこちら](https://www.kspub.co.jp/book/detail/5133323.html)<br>
 
-### 深層学習 基礎と概念　上
+### 深層学習 基礎と概念　上(下は多分まだ)
 [ウェブサイトのリンクはこちら](https://www.maruzen-publishing.co.jp/book/b10153472.html)<br>
 [ウェブサイトのリンクはこちら]()<br>
 
 ### Deep Learning: Foundations and Concepts
 [ウェブサイトのリンクはこちら](https://www.bishopbook.com/)<br>
 
+### 深層学習を理解する I ―教師あり学習とモデルの基礎―
+[ウェブサイトのリンクはこちら](https://www.asakura.co.jp/detail.php?book_code=12314)<br>
+
+### 深層学習を理解する II ―教師なし学習・強化学習・倫理―
+[ウェブサイトのリンクはこちら](https://www.asakura.co.jp/detail.php?book_code=12315)<br>
+
+### Understanding Deep Learning
+[ウェブサイトのリンクはこちら](https://udlbook.github.io/udlbook/)<br>
+
 
 ### Python公式ドキュメント(日本語版)
 [ウェブサイトのリンクはこちら](https://docs.python.org/ja/3.10/index.html)<br>
+
+
+
+
+
+
+
+### 書籍名B
+[ウェブサイトのリンクはこちら](URL)<br>
 
