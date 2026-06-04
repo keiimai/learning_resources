@@ -37,3 +37,7 @@
 
 ### 確率の半歩先　予測・拡散モデルに挑む前の30話
 [ウェブサイトのリンクはこちら](https://www.kodansha.co.jp/book/products/0000427880)<br>
+
+### Python公式ドキュメント(日本語版)
+[ウェブサイトのリンクはこちら](https://docs.python.org/ja/3.10/index.html)<br>
+ここにメモを記載します。
