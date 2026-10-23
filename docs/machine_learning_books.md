@@ -15,7 +15,7 @@
 
 
 ### scikit-learn、Keras、TensorFlowによる実践機械学習 第3版
-[ウェブサイトのリンクはこちら](URL)<br>
+[ウェブサイトのリンクはこちら](https://www.oreilly.co.jp/books/9784814400935/)<br>
 
 ### Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Edition
 [ウェブサイトのリンクはこちら](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/)<br>
@@ -23,7 +23,6 @@
 
 ### イラストで学ぶ　機械学習 最小二乗法による識別モデル学習を中心に
 [ウェブサイトのリンクはこちら](https://www.kspub.co.jp/book/detail/1538214.html)<br>
-ここにメモを記載します。
 
 ### 線形代数の半歩先 データサイエンス・機械学習に挑む前の30話
 [ウェブサイトのリンクはこちら](https://www.kspub.co.jp/book/detail/5386477.html)<br>
@@ -40,7 +39,7 @@
 [ウェブサイトのリンクはこちら](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/)<br>
 
 ### 確率的機械学習：入門編 I ―基礎と線形モデル―
-[ウェブサイトのリンクはこちら](https://www.asakura.co.jp/detail.php?book_code=12303&srsltid=AfmBOor55gGhSjJiAKFxSarEJETJ3WPcwGb09rjPH8Y2iLsKk7INLe0V)<br>
+[ウェブサイトのリンクはこちら](https://www.asakura.co.jp/detail.php?book_code=12303)<br>
 
 ### 確率的機械学習：入門編 II ―非線形モデル―
 [ウェブサイトのリンクはこちら](https://www.asakura.co.jp/detail.php?book_code=12304)<br>
@@ -52,9 +51,8 @@
 ### 深層学習 改訂第2版
 [ウェブサイトのリンクはこちら](https://www.kspub.co.jp/book/detail/5133323.html)<br>
 
-### 深層学習 基礎と概念　上(下は多分まだ)
+### 深層学習 基礎と概念　上（下巻は未刊）
 [ウェブサイトのリンクはこちら](https://www.maruzen-publishing.co.jp/book/b10153472.html)<br>
-[ウェブサイトのリンクはこちら]()<br>
 
 ### Deep Learning: Foundations and Concepts
 [ウェブサイトのリンクはこちら](https://www.bishopbook.com/)<br>
@@ -71,13 +69,3 @@
 
 ### Python公式ドキュメント(日本語版)
 [ウェブサイトのリンクはこちら](https://docs.python.org/ja/3.10/index.html)<br>
-
-
-
-
-
-
-
-### 書籍名B
-[ウェブサイトのリンクはこちら](URL)<br>
-
