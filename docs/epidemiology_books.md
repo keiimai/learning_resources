@@ -29,3 +29,7 @@ https://global.oup.com/us/companion.websites/9780199754557/questions/
 ### Modern Epidemiology, 4th ed.
 [ウェブサイトのリンクはこちら](https://www.nankodo.co.jp/g/g9781451193282/)<br>
 
+### Causal Inference: What If
+[ウェブサイトのリンクはこちら](https://miguelhernan.org/whatifbook)<br>
+邦訳版はありません。著者のWebサイトで本文のPDFが無料で公開されています。<br>
+
