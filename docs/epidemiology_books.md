@@ -21,6 +21,18 @@ https://global.oup.com/us/companion.websites/9780199754557/questions/
 ### Designing Clinical Research, 5th ed.
 [ウェブサイトのリンクはこちら](https://www.nankodo.co.jp/g/g9781975174408/)<br>
 
+### はじめての統計的因果推論
+[ウェブサイトのリンクはこちら](https://www.iwanami.co.jp/book/b639904.html)<br>
+
+### 因果推論の科学
+[ウェブサイトのリンクはこちら](https://www.kinokuniya.co.jp/f/dsg-01-9784163915968)<br>
+
+### The Book of Why: The New Science of Cause and Effect
+[ウェブサイトのリンクはこちら](https://www.kinokuniya.co.jp/f/dsg-02-9780141982410)<br>
+
+### 「原因と結果」の経済学 ―データから真実を見抜く思考法―
+[ウェブサイトのリンクはこちら](https://www.diamond.co.jp/book/9784478039472.html)<br>
+
 
 ## 発展編
 ### 現代疫学　原著第4版
@@ -32,4 +44,7 @@ https://global.oup.com/us/companion.websites/9780199754557/questions/
 ### Causal Inference: What If
 [ウェブサイトのリンクはこちら](https://miguelhernan.org/whatifbook)<br>
 邦訳版はありません。著者のWebサイトで本文のPDFが無料で公開されています。<br>
+
+### 因果推論の計量経済学
+[ウェブサイトのリンクはこちら](https://www.nippyo.co.jp/shop/book/9359.html)<br>
 
