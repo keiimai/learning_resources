@@ -20,6 +20,12 @@
 ### Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Edition
 [ウェブサイトのリンクはこちら](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/)<br>
 
+### 東京大学のデータサイエンティスト育成講座
+[ウェブサイトのリンクはこちら](https://book.mynavi.jp/ec/products/detail/id=102631)<br>
+
+### Pythonデータ解析入門
+[ウェブサイトのリンクはこちら](https://www.utp.or.jp/book/b10049697.html)<br>
+
 
 ### イラストで学ぶ　機械学習 最小二乗法による識別モデル学習を中心に
 [ウェブサイトのリンクはこちら](https://www.kspub.co.jp/book/detail/1538214.html)<br>
