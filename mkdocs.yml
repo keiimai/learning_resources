@@ -1,5 +1,6 @@
 site_name: Learning Resources
 site_url: https://keiimai.github.io/learning_resources/
+copyright: '&copy; 2026 keiimai — <a href="https://creativecommons.org/licenses/by/4.0/deed.ja">CC BY 4.0</a>'
 
 theme:
   name: material

@@ -14,5 +14,10 @@
 - 邦訳のある洋書は、原著と邦訳を並べて載せています。
 - 書籍の情報は掲載した時点のものです。最新の版や価格は、リンク先でご確認ください。
 
+## このサイトについて
+- 個人（GitHub アカウント：[keiimai](https://github.com/keiimai)）が運営しています。
+- 掲載する書籍の選定は運営者個人の判断によるもので、所属する機関の見解を示すものではありません。
+- アフィリエイトリンクなどの広告は含んでいません。
+
 ## ライセンス
-MIT License（[LICENSE](LICENSE) を参照）
+このリポジトリの内容は、[クリエイティブ・コモンズ 表示 4.0 国際（CC BY 4.0）](https://creativecommons.org/licenses/by/4.0/deed.ja)で提供しています。出典（Learning Resources／keiimai）を示せば、自由に共有・改変できます。全文は [LICENSE](LICENSE) を参照してください。
