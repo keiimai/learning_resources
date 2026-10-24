@@ -1,5 +1,6 @@
 # 機械学習　書籍一覧
 
+## Python による実装
 ### Pythonではじめる機械学習 ―scikit-learnで学ぶ特徴量エンジニアリングと機械学習の基礎
 [ウェブサイトのリンクはこちら](https://www.oreilly.co.jp/books/9784873117980/)<br>
 
@@ -26,16 +27,21 @@
 ### Pythonデータ解析入門
 [ウェブサイトのリンクはこちら](https://www.utp.or.jp/book/b10049697.html)<br>
 
+### Python公式ドキュメント(日本語版)
+[ウェブサイトのリンクはこちら](https://docs.python.org/ja/3.10/index.html)<br>
 
-### イラストで学ぶ　機械学習 最小二乗法による識別モデル学習を中心に
-[ウェブサイトのリンクはこちら](https://www.kspub.co.jp/book/detail/1538214.html)<br>
 
+## 数学の基礎
 ### 線形代数の半歩先 データサイエンス・機械学習に挑む前の30話
 [ウェブサイトのリンクはこちら](https://www.kspub.co.jp/book/detail/5386477.html)<br>
 
 ### 確率の半歩先　予測・拡散モデルに挑む前の30話
 [ウェブサイトのリンクはこちら](https://www.kodansha.co.jp/book/products/0000427880)<br>
 
+
+## 機械学習の理論
+### イラストで学ぶ　機械学習 最小二乗法による識別モデル学習を中心に
+[ウェブサイトのリンクはこちら](https://www.kspub.co.jp/book/detail/1538214.html)<br>
 
 ### パターン認識と機械学習 上・下
 [ウェブサイトのリンクはこちら](https://www.maruzen-publishing.co.jp/book/b10111651.html)<br>
@@ -54,6 +60,7 @@
 [ウェブサイトのリンクはこちら](https://probml.github.io/pml-book/book1.html)<br>
 
 
+## 深層学習
 ### 深層学習 改訂第2版
 [ウェブサイトのリンクはこちら](https://www.kspub.co.jp/book/detail/5133323.html)<br>
 
@@ -71,7 +78,3 @@
 
 ### Understanding Deep Learning
 [ウェブサイトのリンクはこちら](https://udlbook.github.io/udlbook/)<br>
-
-
-### Python公式ドキュメント(日本語版)
-[ウェブサイトのリンクはこちら](https://docs.python.org/ja/3.10/index.html)<br>
