@@ -11,7 +11,9 @@
 - [自然科学の統計学](https://www.utp.or.jp/book/b300859.html)
 - [人文・社会科学の統計学](https://www.utp.or.jp/book/b300858.html)
 
-### [調査観察データの統計科学 ―因果推論・選択バイアス・データ融合―（確率と情報の科学）](https://www.iwanami.co.jp/book/b257892.html)
+### 確率と情報の科学
+- [調査観察データの統計科学 ―因果推論・選択バイアス・データ融合―](https://www.iwanami.co.jp/book/b257892.html)
+- [データ解析のための統計モデリング入門 ―一般化線形モデル・階層ベイズモデル・MCMC―](https://www.iwanami.co.jp/book/b257893.html)
 
 ### まずはこの一冊から
 - [意味がわかる統計学](https://www.beret.co.jp/book/43041)
@@ -19,6 +21,8 @@
 - [意味がわかる多変量解析](https://www.beret.co.jp/book/43980)
 
 ### [あなたの臨床研究応援します ―医療統計につながる正しい研究デザイン、観察研究の効果的なデータ解析―](https://www.yodosha.co.jp/yodobook/book/9784758118514/)
+
+### [今日から使える医療統計　第2版](https://www.igaku-shoin.co.jp/book/detail/115128)
 
 
 ## R を使う本
