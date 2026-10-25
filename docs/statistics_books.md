@@ -32,10 +32,14 @@
 - [データ分析に必須の知識・考え方　統計学入門 ―仮説検定から統計モデリングまで重要トピックを完全網羅―](https://www.socym.co.jp/book/1319)
 - [本質を捉えたデータ分析のための分析モデル入門 ―統計モデル、深層学習、強化学習等 用途・特徴から原理まで一気通貫！―](https://www.socym.co.jp/book/1377)
 - [データ分析のための数理モデル入門 ―本質をとらえた分析のために―](https://www.socym.co.jp/book/1249)
+- [指標・特徴量の設計から始めるデータ可視化学入門 ―データを洞察につなげる技術―](https://www.socym.co.jp/book/1444)
+- [将来予測と意思決定のための時系列分析入門 ―様々な時系列モデルによる予測方法からその評価方法まで―](https://www.socym.co.jp/book/1503)
 
 ### その問題、数理モデルが解決します
 - [その問題、数理モデルが解決します](https://www.beret.co.jp/book/45687)
 - [その問題、やっぱり数理モデルが解決します](https://www.beret.co.jp/book/46301)
+
+### [いかにして問題をとくか](https://www.maruzen-publishing.co.jp/contents/howtosolveit/index.html)
 
 
 ## R を使う本
