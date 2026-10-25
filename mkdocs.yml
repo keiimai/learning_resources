@@ -5,6 +5,33 @@ copyright: '&copy; 2026 keiimai — <a href="https://creativecommons.org/license
 theme:
   name: material
   language: ja
+  # 最初はブラウザ（OS）の設定に合わせ、上部のボタンで「自動 → 白 → 黒」と切り替えられる
+  palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: 白い背景に切り替え
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: white
+      accent: blue
+      toggle:
+        icon: material/brightness-7
+        name: 黒い背景に切り替え
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: light blue
+      toggle:
+        icon: material/brightness-4
+        name: システムの設定に合わせる
+  features:
+    - toc.integrate
+  font:
+    text: BIZ UDPGothic
+
+extra_css:
+  - stylesheets/extra.css
 
 nav:
   - ホーム: index.md
