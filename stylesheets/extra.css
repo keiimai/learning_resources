@@ -1,0 +1,15 @@
+/* 背景をほぼ黒にし、黒地でも見やすい明るい青をリンクの色にする */
+[data-md-color-scheme="slate"][data-md-color-primary] {
+  --md-default-bg-color: #121212;
+  --md-typeset-a-color: #8ab4f8;
+}
+
+/* 白い背景では、白地で見やすい濃い青をリンクの色にする */
+[data-md-color-scheme="default"][data-md-color-primary] {
+  --md-typeset-a-color: #1a5fb4;
+}
+
+/* 日本語の本文を読みやすくするため、行間を広げる */
+.md-typeset {
+  line-height: 1.8;
+}
